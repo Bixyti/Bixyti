@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:134e4a,100:0f172a&height=180&section=header&text=Ahoura&fontSize=62&fontColor=ffffff" alt="Ahoura" />
-</p>
-
 <p align="center">Software development student — C#, web, and self-hosted infrastructure</p>
 
 <h3 align="center">Skills</h3>
